@@ -1,4 +1,4 @@
-# LowLatencyCppResources
+# Low latency C++ resources
 Valuable resources for low latency c++ development, slightly geared towards algorithmic and high-frequency trading.
 
 ## Articles / Papers
