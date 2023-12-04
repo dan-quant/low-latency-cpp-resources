@@ -9,6 +9,7 @@ Valuable resources for low latency c++ development, slightly geared towards algo
 2. Meeting C++ presentation by David Gross on low latency c++ used in high-frequency trading: [Trading at light speed](https://www.youtube.com/watch?v=8uAW5FQtcvE)
 3. CppCon presentation by Mike Acton on data-oriented design: [Data-oriented design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 4. CppCOn presentation by Fedor Pikus on atomics: [C++ atomics, from basic to advanced. What do they really do?](https://www.youtube.com/watch?v=ZQFzMfHIxng)
+5. Interesting video on how the 8-bit byte came to be (first half of the video): [Mythical man month](https://www.youtube.com/watch?v=vuScajG_FuI)
 
 ## Books
 1. Good introductory book on some common techniques used in high-frequency trading an eletronic trading systems: [Building low latency applications with C++](https://www.amazon.co.uk/Building-Low-Latency-Applications-ecosystem/dp/1837639353)
